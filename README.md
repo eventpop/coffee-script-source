@@ -5,7 +5,7 @@ This gem is a drop-in replacement for `coffee-script-source` gem but for CoffeeS
 ## Installation
 
 ```bash
-bundle add https://github.com/eventpop/coffee-script-source.git
+bundle add coffee-script-source --git=https://github.com/eventpop/coffee-script-source
 ```
 
 ## License
