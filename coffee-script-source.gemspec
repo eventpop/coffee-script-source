@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "coffee-script-source"
-  spec.version = "1.12.2"
+  spec.version = "2.7.0"
   spec.authors = ["Manassarn Manoonchai"]
   spec.email = ["noom@eventpop.me"]
 
